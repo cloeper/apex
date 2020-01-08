@@ -1,0 +1,53 @@
+{
+  "name": "apex-code-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.7.0",
+    "@nivo/line": "^0.59.3",
+    "date-fns": "^2.8.1",
+    "history": "^4.10.1",
+    "immutable": "^4.0.0-rc.12",
+    "nivo": "^0.31.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.1.3",
+    "reselect": "^4.0.0",
+    "typescript": "3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.23",
+    "@types/node": "12.12.14",
+    "@types/react": "16.9.13",
+    "@types/react-dom": "16.9.4",
+    "@types/react-redux": "^7.1.5",
+    "@types/react-router-dom": "^5.1.3",
+    "redux-devtools-extension": "^2.13.8"
+  }
+}
